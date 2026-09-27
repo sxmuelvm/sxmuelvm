@@ -8,7 +8,7 @@
 
 * I am a Technology Student from Cuenca, Ecuador 🇪🇨
 * Techstack: `.py`, `.flask`, `.html`, `.css`, `.js`, `.sql`, `.docker`, `.aws`, `.linux`
-* Featured project: [Cafe Morlaco](https://sxmuelvm.github.io/cafe-morlaco/) ☕
+* Featured project: [Café Morlaco](https://sxmuelvm.github.io/cafe-morlaco/) ☕
 
 ### GitHub Stats
 
@@ -18,4 +18,3 @@
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sxmuelvm\&layout=compact)
 
-### Featured Project
