@@ -16,5 +16,5 @@
 
 ### Most Used Languages
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sxmuelvm\&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sxmuelvm&layout=compact&theme=dracula)
 
