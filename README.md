@@ -2,7 +2,7 @@
 
 ## Hey, I'm Samuel!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Samuel%20Vallejo-blue?style=social\&logo=Linkedin\&logoColor=blue)](https://www.linkedin.com/in/samuel-vallejo-morales/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Samuel%20Vallejo-blue?style=social\&logo=Linkedin\&logoColor=blue)](https://www.linkedin.com/in/samuel-vallejo-morales/) [![Instagram Badge](https://img.shields.io/badge/-sxmuel.vm-E4405F?style=social\&logo=instagram\&logoColor=E4405F)](https://www.instagram.com/sxmuel.vm/)
 [![Gmail Badge](https://img.shields.io/badge/-samuel.vallejo-c14438?style=social\&logo=Gmail\&logoColor=red)](mailto:samuel.vallejo@ucuenca.edu.ec)
 [![GitHub followers](https://img.shields.io/github/followers/sxmuelvm?label=Follow\&style=social)](https://github.com/sxmuelvm)
 
@@ -16,5 +16,6 @@
 
 ### Most Used Languages
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sxmuelvm&layout=compact&theme=dracula)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sxmuelvm\&layout=compact\&theme=dracula)
+
 
