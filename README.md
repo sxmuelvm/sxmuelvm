@@ -16,7 +16,9 @@
 
 ### Most Used Languages
 
-[![Cafe Morlaco](https://github-readme-stats.vercel.app/api/pin/?username=sxmuelvm\&repo=cafe-morlaco\&theme=default)](https://sxmuelvm.github.io/cafe-morlaco/)
-
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sxmuelvm\&layout=compact)
+
+### Featured Project
+
+[![Cafe Morlaco](https://github-readme-stats.vercel.app/api/pin/?username=sxmuelvm\&repo=cafe-morlaco\&theme=default)](https://sxmuelvm.github.io/cafe-morlaco/)
 
