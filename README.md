@@ -10,14 +10,13 @@
 * Techstack: `.py`, `.flask`, `.html`, `.css`, `.js`, `.sql`, `.docker`, `.aws`, `.linux`
 * Featured project: [Cafe Morlaco](https://sxmuelvm.github.io/cafe-morlaco/) ☕
 
-<!-- Add your personal website here when you upload it -->
-
 ### GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sxmuelvm?cardType=level\&theme=default\&fontFamily=Roboto\&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sxmuelvm?cardType=github\&theme=dracula\&fontFamily=\&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ### Most Used Languages
 
 [![Cafe Morlaco](https://github-readme-stats.vercel.app/api/pin/?username=sxmuelvm\&repo=cafe-morlaco\&theme=default)](https://sxmuelvm.github.io/cafe-morlaco/)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sxmuelvm\&layout=compact)
+
