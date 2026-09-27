@@ -12,7 +12,7 @@
 
 ### GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sxmuelvm?cardType=github\&theme=dracula\&fontFamily=\&preferLogin=true)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sxmuelvm?cardType=github\&theme=dracula\&fontFamily=Poppins\&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ### Most Used Languages
 
