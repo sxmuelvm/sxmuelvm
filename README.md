@@ -1,16 +1,23 @@
-## Hi there 👋
+[![Samuel Vallejo](https://raw.githubusercontent.com/sxmuelvm/sxmuelvm/main/img/banner.png)](https://github.com/sxmuelvm)
 
-<!--
-**sxmuelvm/sxmuelvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, I'm Samuel!
 
-Here are some ideas to get you started:
+[![LinkedIn Badge](https://img.shields.io/badge/-Samuel%20Vallejo-blue?style=social\&logo=Linkedin\&logoColor=blue)](https://www.linkedin.com/in/samuel-vallejo-morales/)
+[![Gmail Badge](https://img.shields.io/badge/-samuel.vallejo-c14438?style=social\&logo=Gmail\&logoColor=red)](mailto:samuel.vallejo@ucuenca.edu.ec)
+[![GitHub followers](https://img.shields.io/github/followers/sxmuelvm?label=Follow\&style=social)](https://github.com/sxmuelvm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I am a Technology Student from Cuenca, Ecuador 🇪🇨
+* Techstack: `.py`, `.flask`, `.html`, `.css`, `.js`, `.sql`, `.docker`, `.aws`, `.linux`
+* Featured project: [Cafe Morlaco](https://sxmuelvm.github.io/cafe-morlaco/) ☕
+
+<!-- Add your personal website here when you upload it -->
+
+### GitHub Stats
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sxmuelvm?cardType=level\&theme=default\&fontFamily=Roboto\&preferLogin=false)](https://git.io/awesome-stats-card)
+
+### Most Used Languages
+
+[![Cafe Morlaco](https://github-readme-stats.vercel.app/api/pin/?username=sxmuelvm\&repo=cafe-morlaco\&theme=default)](https://sxmuelvm.github.io/cafe-morlaco/)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sxmuelvm\&layout=compact)
